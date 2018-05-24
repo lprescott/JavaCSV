@@ -1,2 +1,3 @@
 # OpenCSV
-A boilerplate for openCSV in java 1.8
+A boilerplate for openCSV in java 1.8 for quick implementation.
+
